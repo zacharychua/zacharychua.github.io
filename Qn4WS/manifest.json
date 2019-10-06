@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/Qn4WS/",
-  "start_url": "/Qn4WS",
+  "start_url": "/Qn4WS/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
