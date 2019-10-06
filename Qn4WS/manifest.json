@@ -5,7 +5,7 @@
   "background_color": "#2196f3",
   "display": "standalone",
   "orientation": "portrait",
-  "Scope": "/Qn4WS/",
+  "scope": "/Qn4WS/",
   "start_url": "/Qn4WS/",
   "icons": [
     {
